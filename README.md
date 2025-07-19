@@ -3,7 +3,9 @@
 All 75 projects list
 
 ## Part 1: Intro & Setup
+
 ### Chapter 1: Ancient Runes & Modern Scrolls, Starters
+
 0: Hello World
 1: Pong
 
@@ -11,26 +13,29 @@ All 75 projects list
 3: Sketch to Code
 
 ### Chapter 2: Teleportation, put websites online easy
+
 4: 1 letter hotkey deploy: Netlify Auto deploy, Drag & Drop Deploy: Netlify Drop
 5: Replit deploys
 6: Advanced options: Vercel, Render
 
 ### Chapter 3: Wands, dev kit setup
+
 7: Phone setup: Replit + Github
 8: Full Pro: Cursor.sh, Warp, GitTower, GH Copilot
 
 ### Chapter 4: Divination: The Origin
+
 9: Git 101 & CLI
 10: Linear
 
-
 ### Interlude 1: Herbology, Bug Squashing
-11: Debugging 101, how to think like a code wizard
 
+11: Debugging 101, how to think like a code wizard
 
 ## Part 2: Spells, Beginner Incantations
 
 ### Chapter 6: Spells 101: Telekinesis, Interactive
+
 12: Code in Motion: P5.js
 13: Ballpit physics: Matter.js
 14: Games 101: ASCII text adventure game
@@ -38,22 +43,24 @@ All 75 projects list
 16: Game animation: Rive
 
 ### Chapter 7: Spells 102: Dark Arts, Data
+
 17: Calculator App
 18: Todo list, CRUD
 19: Habit tracker
 20: Chess
 
 ### Chapter 8: Spells 103: Stoneweaving, Build your blog!
+
 21: Blog
 
-
 ### Interlude 2: Hackathon!
-22: Themed. 48 hours
 
+22: Themed. 48 hours
 
 Pt3 Conjuring, Prompt-gramming. Prompt to Everything.
 
 ### Chapter 9: Spells 201: Charms, Prompt Created Media
+
 23: Images & Graphic Design: Dalle, Midjourney & Canva
 24: Images via Code: Prompt -> SVG
 25: Images via sketch: Leonardo Live Canvas & Krea
@@ -63,25 +70,28 @@ Pt3 Conjuring, Prompt-gramming. Prompt to Everything.
 29: 3d Game: Games 102: Three.js, Meshy, LumaLabs Genie
 
 ### Chapter 10: Spells 202: Transfiguration, Prompt 1st Coding
+
 30: Draw code: TLDraw
 31: Design & Wireframe: Figma, Relume
 33: Rapid UI prototypes: v0.dev
 33: Backend API: Retool
 
 ### Chapter 11: Spells 203: Illusions, advanced front & backend
+
 34: iOS App: SwiftUI, Trace.zip
 35: Games 103: Unity Game
 36: Backend: Supabase
 
 ### Chapter 12: Potions: custom GPTs
+
 37: custom GPT Actions: Evolution Chamber
 38: custom GPT backend server: Express, Replit
 39: Zapier Actions
 
-
-# Part 4: Forbidden Spells, Curses, Cursor.sh
+## Part 4: Forbidden Spells, Curses, Cursor.sh
 
 ### Chapter 13: Curses, Cursor.sh 101
+
 40: File > New Ai project
 41: Cmd + K
 42: Sidechat, Cmd + Shift + L
@@ -90,6 +100,7 @@ Pt3 Conjuring, Prompt-gramming. Prompt to Everything.
 ### Chapter 14: Hexes, Cursor.sh 102
 
 ### Chapter 15: Necromancy: Cursor.sh 201
+
 new tricks, mind bending possibilities & unspeakable horrors
 
 It appears the pages have been damaged, and a portion of the book is missing
@@ -98,27 +109,27 @@ How we will find the lost pages?
 ## Part 5: Flying Lessons: Taming Shoggoth
 
 ### Chapter 16: Surfing Dragons: Agents, Code Interpreters & New Forms
-57: babyAgi
 
+57: babyAgi
 58: Smol-dev
 59: Aider.chat
-
 60: Julius.ai
 61: Open Interpreter
 
-
 ## Part 6: Alchemy
 
-### Chapter 17: Wizard's gotta eat!
+### Chapter 17: "Wizard's gotta eat!"
+
 62: 1st Dollar: Stripe Links
 63: Business: Gumroad, Shopify, Stripe Atlas
 
-
 ## Part 7: Book of the Dead
+
 Speedrun traditional coding concepts in a post GPT-4 world
 Made for beginners who learned prompting prior to coding
 
 ### Chapter 18: Heresy 101: Coding basics re-imagined, post GPT-4
+
 64: CLI 101
 65: How to learn any coding language
 66: Variables, operators, assignment & basic data types
@@ -129,23 +140,24 @@ Made for beginners who learned prompting prior to coding
 ## Part 8: Memory Palaces
 
 ### Chapter 19: Underworld: Data Structures & algos 101
+
 70: Algorithms, Search, Binary Search, Sorting, Merge Sort. Big O, little o, and aysmptotic notation
 71: Data structures: Queues, Stacks. Sets. Linked Lists. Hash Tables, Dictionaries. Graphs. BFS, DFS. Trees, Binary Search Trees. Tries.
 
 ## Chapter 20: Cathedrals: Code architecture
+
 72: Design patterns, different styles, functional programming tiramisu recipie
 
 ## Part 9: Book of Life
 
 ### Chapter 21: Summoning 101
+
 73: 3d printing from prompts
-
-74: Robot: Raspberry pi, arduino4
-
+74: Robot: Raspberry pi, arduino
 75: Attach openAI api to robot
 
+## Tracks
 
-# Tracks
 Kids menu:
 Part 1,
 Chapters 1
