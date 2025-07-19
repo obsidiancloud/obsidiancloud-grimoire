@@ -139,7 +139,9 @@ Made for beginners who learned prompting prior to coding
 
 ### Chapter 21: Summoning 101
 73: 3d printing from prompts
-74: Robot: Raspberry pi, arduino
+
+74: Robot: Raspberry pi, arduino4
+
 75: Attach openAI api to robot
 
 
